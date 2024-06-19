@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi <a href ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" ><a/>, I'm Sai Dinesh Reddy Gunnala</h1>
+<h1 align="center">Hi <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "25px">, I'm Sai Dinesh Reddy Gunnala</h1>
 <h3 align="center">
 
 
