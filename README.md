@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala</h1>
 <h3 align="center">
+<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
+<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
+<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
+<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px">
 
 
 
