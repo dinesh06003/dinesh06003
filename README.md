@@ -5,7 +5,8 @@
 <br>
 <p align="left"> I am a dedicated programmer and coding enthusiast, having earned my degree from Missouri University of Science and Technology. I am driven by a passion for using programming and software to tackle real-world challenges. Currently seeking opportunities as a Software Engineer, I am focused on continuous skill improvement and achieving excellence in my profession.</p>
 <br>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dinesh06003&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=false"></p>
+<br>
 
 - *currently learning* **FullStack Technologies**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
