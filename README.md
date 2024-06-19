@@ -13,20 +13,6 @@
 - **Fun fact:** *More productive while listening Music* 🎧
 - How to reach me: **gunnalasaidinesh@gmail.com**
 <br>
-<div>
-
-
-  
-</div>
-<br>
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,13 +56,6 @@
 <a href="mailto:gunnalasaidinesh@gmail.com"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/mail.png" width="30px" title="E-mail"></a></div>
 
 
-
-### Projects
-
-- [**Full Stack Web Application**](https://github.com/dinesh06003/full-stack-app): A web app built with React, Node.js, and MongoDB.
-- [**Java Spring Boot Microservices**](https://github.com/dinesh06003/spring-boot-microservices): A collection of microservices using Spring Boot and Spring Cloud.
-- [**AWS Infrastructure as Code**](https://github.com/dinesh06003/aws-iac): AWS infrastructure setup using Terraform and CloudFormation.
-
 ### GitHub Stats
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh06003&show_icons=true&theme=radical)
@@ -85,19 +64,3 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh06003" alt="dinesh06003" />
 </p>
 
-
-
-<!--
-**dinesh06003/dinesh06003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
