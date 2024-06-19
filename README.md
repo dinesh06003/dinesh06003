@@ -1,10 +1,11 @@
-<h1 align="center">Hi <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala 👨‍💼</h1> 
+<h1 align="center">Sai Dinesh Reddy Gunnala 👨‍💼</h1> 
+Hi there <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif"  align = "left" width = "30px">
 <h3 align="left">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
 <a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px"></a>
-<a href = "https://www.linkedin.com/feed/"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
+<a href = "https://www.linkedin.com/feed/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
