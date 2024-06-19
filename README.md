@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala 👨‍💻</h1> 
-<h2 align="center">
-  🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Information Systems📚 | Cognizant Alum | Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL |                 Open to New Opportunities✨</h2>
+<p align="center" font-size="25px">
+  🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Information Systems📚 | Cognizant Alum | Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL |                 Open to New Opportunities✨</p>
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
