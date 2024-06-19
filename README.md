@@ -10,8 +10,16 @@
 
 - *currently learning* **FullStack Technologies**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
+- **Fun fact:** *More productive while listening Music* 🎧
 - How to reach me: **gunnalasaidinesh@gmail.com**
 <br>
+<div>
+
+
+  
+</div>
+<br>
+
 
 <h4> <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "60px" title="Let's Connect"> with me: </h4>
 <div align="left">
