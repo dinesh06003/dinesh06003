@@ -70,10 +70,7 @@ I'm Dinesh, a Full Stack Developer, Java Developer, and AWS Enthusiast.
 
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh06003&show_icons=true&theme=radical)
 
-### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/your-profile)
 
 
 
