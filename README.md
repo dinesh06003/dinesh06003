@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala 👨‍💻</h1> 
-<p style="font-size: 30px; text-align: center;">
+<p style="font-size: 100px; text-align: center;">
   🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Science📚 | Cognizant Alumni | Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL | SalesForce Developer|            Open to New Opportunities✨</p>
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
