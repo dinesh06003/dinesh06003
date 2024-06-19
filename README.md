@@ -1,6 +1,7 @@
-<h1 align="center">Sai Dinesh Reddy Gunnala 👨‍💼</h1> 
-Hi there <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif"  align = "left" width = "30px">
+<h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif"  align = "left" width = "30px">Sai Dinesh Reddy Gunnala 👨‍💻</h1> 
+Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif"  align = "left" width = "30px">
 <h3 align="left">
+  🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Information Systems📚 | Cognizant Alum | Experienced in JavaScript | React.js | MongoDB | Node.js | Java | SQL |                 Open to New Opportunities✨
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
