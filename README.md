@@ -1,4 +1,10 @@
 ## Hi there 👋
+<h1 align="center">Hi <a href ="https://github.com/dinesh06003/dinesh06003/blob/a96812dcce0cbcff1a6916a5ec3c8eff378f4528/Assets/Hi.gif" ><a/>, I'm Sai Dinesh Reddy Gunnala</h1>
+<h3 align="center">
+
+
+
+
 
 <!--
 **dinesh06003/dinesh06003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
