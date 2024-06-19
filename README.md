@@ -33,14 +33,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Hi there 👋
 
-I'm Dinesh, a Full Stack Developer, Java Developer, and AWS Enthusiast.
 
-- 🔭 I’m currently working on [Project Name](https://github.com/dinesh06003/project-name)
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Type of Projects]
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
 
 ### Skills
 
