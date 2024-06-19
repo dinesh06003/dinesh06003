@@ -3,7 +3,7 @@
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
 <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
-<a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = ""blank><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px"></a>
+<a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px"></a>
 <a href = "https://www.linkedin.com/feed/"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
