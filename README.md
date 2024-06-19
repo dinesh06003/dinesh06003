@@ -1,12 +1,14 @@
 <h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala 👨‍💻</h1> 
 
-  🚀 Full Stack Web Developer | Web Enthusiast 🌐 | Master's in Computer Science📚 | Cognizant Alumni | Experienced in Java | React.js | MongoDB | Node.js | JavaScript | SQL | SalesForce Developer |            Open to New Opportunities✨
+<h3 align="center">🚀 Full Stack Web Developer | Web Enthusiast <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px"> | Master's in Computer Science📚 | Cognizant Alumni | Experienced in Java | React.js | MongoDB | Node.js | JavaScript | SQL | SalesForce Developer | Big data & Cloud Computing | Open to New Opportunities <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "15px"></h3>
+<br>
+<br>
+<p align="center">A dedicated programmer and coding enthusiast, having earned my degree from Missouri University of Science and Technology. I am driven by a passion for using programming and software to tackle real-world challenges. Currently seeking opportunities as a Software Engineer, I am focused on continuous skill improvement and achieving excellence in my profession.</p>
 
-<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px">
-<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "30px">
-<img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "30px">
+<h4> <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "60px"> with me: </h4>
 <a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px"></a>
-<a href = "https://www.linkedin.com/feed/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
+<a href = "https://www.linkedin.com/in/saidineshreddygunnala/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
+<a href="mailto:gunnalasaidinesh@gmail.com"><img src="" ></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
