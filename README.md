@@ -8,7 +8,7 @@
 <h4> <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "60px"> with me: </h4>
 <a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px"></a>
 <a href = "https://www.linkedin.com/in/saidineshreddygunnala/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px"></a>
-<a href="mailto:gunnalasaidinesh@gmail.com"><img src="" ></a>
+<a href="mailto:gunnalasaidinesh@gmail.com"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/mail.png" width="30px"></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
