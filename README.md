@@ -43,7 +43,12 @@
 
 **Other :**
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="Wireshark" width="40" height="40"/></a> <a><img src=""</a>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="Wireshark" width="40" height="40"/></a> 
+<a href="https://hadoop.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hadoop.jpeg" alt="Hadoop" width="30px"/></a><a href="https://spark.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Spark.jpg" alt="Apache Spark" width="30px"/></a>
+<a href="https://hive.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hive.jpg" alt="Apache Hive" width="30px"/></a>
+<a href="https://hbase.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hbase.png" alt="Apache Hbase" width="30px"/></a>
+
+
 
 
 </p>
