@@ -57,19 +57,9 @@
 
 
 ### GitHub Stats
-<table>
-<tr>
- <td>
-  ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh06003&show_icons=true&theme=radical)
- </td>
- <td>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh06003" alt="dinesh06003" />
- </td>
- <td>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh06003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh06003" />
 
- </td>
-</tr>
- 
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=dinesh06003&show_icons=true&theme=radical" alt="dinesh06003"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh06003" alt="dinesh06003" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh06003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh06003" />
+
 
