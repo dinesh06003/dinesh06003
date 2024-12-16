@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy Gunnala 👨‍💻</h1> 
+<h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy 👨‍💻</h1> 
 
 <h3 align="center">🚀 Full Stack Web Developer | Web Enthusiast <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px"> | Master's in Computer Science📚 | Cognizant Alumni | Experienced in Java | React.js | MongoDB | Node.js | JavaScript | SQL | SalesForce Developer <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/salesforce.svg" width = "30px"> | AWS | Big data & Cloud Computing | Open to New Opportunities <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "15px"></h3>
 <br>
