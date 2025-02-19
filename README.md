@@ -60,7 +60,7 @@
 <div align="left">
 <a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px" title="Instagram"></a>
 <a href = "https://www.linkedin.com/in/dinesh020771/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px" title="Linkediin"></a>
-<a href="mailto:gunnalasaidinesh@gmail.com"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/mail.png" width="30px" title="E-mail"></a></div>
+<a href="mailto:dinesh.ykbf53@gmail.com"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/mail.png" width="30px" title="E-mail"></a></div>
 
 
 ### GitHub Stats
