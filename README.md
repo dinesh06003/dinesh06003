@@ -11,7 +11,7 @@
 - *currently learning* **FullStack Technologies**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
 - **Fun fact:** *More productive while listening Music* 🎧
-- How to reach me: **dinesh.ykbf53@gmail.com** / **3142208188**
+- How to reach me: **saidinesh4477@gmail.com** / **3142208188**
 <br>
 
 
