@@ -1,17 +1,17 @@
-<h1 align="center"> Hi there! <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Reddy 👨‍💻</h1> 
+<h1 align="center"> Hi there! <img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Hi.gif" width = "30px">, I'm Sai Dinesh Gunnala 👨‍💻</h1> 
 
-<h3 align="center">🚀 Full Stack Java Developer | Web Enthusiast <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Developer.gif" width = "30px"> | Master's in Computer Science📚 | Cognizant Alumni | Experienced in Java | React.js | MongoDB | Node.js | JavaScript | SQL | AWS | Big data & Cloud Computing | Open to New Opportunities <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/happy.gif" width = "15px"></h3>
+<h3 align="center">🚀 Full Stack Java Developer | Web Enthusiast <img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Developer.gif" width = "30px"> | Master's in Computer Science📚 | Cognizant Alumni | Experienced in Java | React.js | MongoDB | Node.js | JavaScript | SQL | AWS | Big data & Cloud Computing | Open to New Opportunities <img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/happy.gif" width = "15px"></h3>
 <br>
 <br>
 <p align="left"> I am a dedicated programmer and coding enthusiast, having earned my degree from Missouri University of Science and Technology. I am driven by a passion for using programming and software to tackle real-world challenges. Currently seeking opportunities as a Software Engineer, I am focused on continuous skill improvement and achieving excellence in my profession.</p>
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=dinesh06003&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=false"></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=saidinesh11971&color=blue&style=plastic&label=PROFILE+VIEWS&abbreviated=false"></p>
 <br>
 
 - *currently learning* **FullStack Technologies**
 - **Pronouns:** [*He/Him*](https://pronoun.is/he)
 - **Fun fact:** *More productive while listening Music* 🎧
-- How to reach me: **saidinesh4477@gmail.com**
+- How to reach me: **saidineshg1971@gmail.com**
 <br>
 
 
@@ -44,10 +44,10 @@
 **Other :**
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hadoop.jpeg" alt="Hadoop" width="75px"/></a>
-<a href="https://spark.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Spark.jpg" alt="Apache Spark" width="35px"/></a>
-<a href="https://hive.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hive.jpg" alt="Apache Hive" width="90px"/></a>
-<a href="https://hbase.apache.org/" rel="noreferrer"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Hbase.png" alt="Apache Hbase" width="65px"/></a>
+<a href="https://hadoop.apache.org/" rel="noreferrer"><img src="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Hadoop.jpeg" alt="Hadoop" width="75px"/></a>
+<a href="https://spark.apache.org/" rel="noreferrer"><img src="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Spark.jpg" alt="Apache Spark" width="35px"/></a>
+<a href="https://hive.apache.org/" rel="noreferrer"><img src="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Hive.jpg" alt="Apache Hive" width="90px"/></a>
+<a href="https://hbase.apache.org/" rel="noreferrer"><img src="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Hbase.png" alt="Apache Hbase" width="65px"/></a>
 
 
 
@@ -55,17 +55,17 @@
 </p>
 <br>
 
-<h4> <img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Handshake.gif" width = "60px" title="Let's Connect"> with me: </h4>
+<h4> <img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Handshake.gif" width = "60px" title="Let's Connect"> with me: </h4>
 <div align="left">
-<a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Instagram.svg" width = "30px" title="Instagram"></a>
-<a href = "https://www.linkedin.com/in/dinesh020771/" target="_blank"><img src ="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/Linkedin.svg" width = "30px" title="Linkediin"></a>
-<a href="mailto:dinesh.ykbf53@gmail.com"><img src="https://github.com/dinesh06003/dinesh06003/blob/main/Assets/mail.png" width="30px" title="E-mail"></a></div>
+<a href = "https://www.instagram.com/dinesh_dinnu_0603/" target = "_blank"><img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Instagram.svg" width = "30px" title="Instagram"></a>
+<a href = "https://www.linkedin.com/in/sdinesh1729/" target="_blank"><img src ="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/Linkedin.svg" width = "30px" title="Linkediin"></a>
+<a href="mailto:saidineshg1971@gmail.com"><img src="https://github.com/saidinesh11971/saidinesh11971/blob/main/Assets/mail.png" width="30px" title="E-mail"></a></div>
 
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh06003&show_icons=true&theme=radical" alt="dinesh06003"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh06003" alt="dinesh06003" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh06003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh06003" />
+<img src="https://github-readme-stats.vercel.app/api?username=saidinesh11971&show_icons=true&theme=radical" alt="saidinesh11971"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidinesh11971" alt="saidinesh11971" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidinesh11971&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saidinesh11971" />
 
 
